@@ -1,0 +1,4 @@
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\SharedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Story\Story\SharedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Story\Story\SharedContent\obj\x86\Debug\StorySharedContent.contentprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\SharedContent\obj\x86\Debug\StorySharedContent.contentprojResolveAssemblyReference.cache

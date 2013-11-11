@@ -1,0 +1,663 @@
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\Music.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\Music.wma
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Levels\1.txt
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Levels\0.txt
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Levels\2.txt
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Story.exe
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Story.pdb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\Story.exe
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\Story.pdb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running1.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running10.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running2.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running3.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running4.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running5.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running6.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running7.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running8.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running9.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Idle.xnb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\Story.CollisionBoxEditor.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Idle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running1.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running10.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running2.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running3.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running4.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running5.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running6.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running7.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running9.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running8.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\Music.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sounds\Music.wma
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Story.exe
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Story.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\Story.CollisionBoxEditor.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\Story.exe
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\Story.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Fonts\font.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\run.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Jump.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart1.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart10.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart2.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart3.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart4.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart5.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart6.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart7.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart8.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart9.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Attack.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\OuthouseClosed.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\OutHouseOpen.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP0.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP1.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP2.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP3.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP4.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP5.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart0.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Egg.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Attack.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\EggProjectile.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Particles\WindParticle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\Story.ObjectEditor.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\NullObjectB.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\NullObjectF.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\NullObjectN.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\MindPowerBack.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\MindPowerCover.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Particles\MindPowerParticle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Particles\RaptorRecallParticle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Particles\RaptorTeleParticle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Particles\DeathParticle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Particles\ProjectileParticle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\Water.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Underwater.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Particles\BreathParticle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\BLSnow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\BMSnow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\BRSnow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\MLSnow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\MMSnow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\MRSnow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RL1Snow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RL2Snow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RR1Snow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RR2Snow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\TLSnow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\TMSnow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\TRSnow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\BLGrass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\BMGrass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\BRGrass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\MLGrass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\MMGrass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\MRGrass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RL1Grass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RL2Grass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RR1Grass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RR2Grass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\TLGrass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\TMGrass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\TRGrass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Attack2.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Particles\SnowflakeParticle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\SnowBG.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Glide.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Particles\RainParticle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Particles\SandParticle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\DesertBG.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\Bridge.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BridgeL.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BridgeM.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BridgeR.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RL3Grass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RR3Grass.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RL3Snow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RR3Snow.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Gem1.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Gem2.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Gem3.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\BLDesert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\BMDesert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\BRDesert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\MLDesert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\MMDesert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\MRDesert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RL1Desert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RL2Desert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RR1Desert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RR2Desert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\TLDesert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\TMDesert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\TRDesert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RL3Desert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RR3Desert.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\WaterM.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\WaterT.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Levels\2.txt
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Levels\1.txt
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Levels\3.txt
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Levels\1.cfg
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Levels\2.cfg
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Levels\3.cfg
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\SpikesB.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\SpikesT.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\MMRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BLRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BMRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\BRRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\MLRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\MRRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\TLRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\TMRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\TRRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\RL1Ruins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\RL2Ruins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\RR1Ruins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\RR2Ruins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\RL3Ruins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\RR3Ruins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\PlatformRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\PillarLargeRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\PillarSmallRuins.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\PlatformBridge.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\Mine.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\MineLarge.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Dunkleosteus\Idle.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Levels\4.cfg
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Levels\4.txt
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\WaterTop.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\LavaM.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\LavaT.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\SpikesSmallB.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\SpikesSmallT.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sprites\Pterodactyl\Flying.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\SpikeBall.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\CloudLarge.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\CloudSmall.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Idle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Exit.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+E:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+E:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+E:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+E:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+E:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+E:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+E:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+E:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+E:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+E:\Story\Story\bin\x86\Debug\Content\Overlays\you_died.xnb
+E:\Story\Story\bin\x86\Debug\Content\Overlays\you_lose.xnb
+E:\Story\Story\bin\x86\Debug\Content\Overlays\you_win.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running1.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running10.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running2.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running3.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running4.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running5.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running6.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running7.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running9.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running8.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\run.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Jump.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart1.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart10.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart2.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart3.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart4.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart5.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart6.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart7.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart8.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart9.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Attack.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\OuthouseClosed.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\OutHouseOpen.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP0.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP1.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP2.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP3.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP4.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP5.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart0.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Egg.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\EggProjectile.xnb
+E:\Story\Story\bin\x86\Debug\Content\Particles\WindParticle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\NullObjectB.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\NullObjectF.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\NullObjectN.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Attack.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\MindPowerBack.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\MindPowerCover.xnb
+E:\Story\Story\bin\x86\Debug\Content\Particles\MindPowerParticle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Particles\RaptorRecallParticle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Particles\RaptorTeleParticle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Particles\DeathParticle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Particles\ProjectileParticle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\Water.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\WaterTop.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Underwater.xnb
+E:\Story\Story\bin\x86\Debug\Content\Particles\BreathParticle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\BLGrass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\BMGrass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\BRGrass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\MLGrass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\MMGrass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\MRGrass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RL1Grass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RL2Grass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RR1Grass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RR2Grass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\TLGrass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\TMGrass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\TRGrass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\BLSnow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\BMSnow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\BRSnow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\MLSnow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\MMSnow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\MRSnow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RL1Snow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RL2Snow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RR1Snow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RR2Snow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\TLSnow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\TMSnow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\TRSnow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Attack2.xnb
+E:\Story\Story\bin\x86\Debug\Content\Particles\SnowflakeParticle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Backgrounds\SnowBG.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Glide.xnb
+E:\Story\Story\bin\x86\Debug\Content\Particles\RainParticle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\BLDesert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\BMDesert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\BRDesert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\MLDesert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\MMDesert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\MRDesert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RL1Desert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RL2Desert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RR1Desert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RR2Desert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\TLDesert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\TMDesert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\TRDesert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Particles\SandParticle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Backgrounds\DesertBG.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\Bridge.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\BridgeL.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\BridgeM.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\BridgeR.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RL3Grass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RR3Grass.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RL3Snow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RR3Snow.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RL3Desert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RR3Desert.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Gem1.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Gem2.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Gem3.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\WaterM.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\WaterT.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\SpikesB.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\SpikesT.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\MMRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\BLRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\BMRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\BRRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\MLRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\MRRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\TLRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\TMRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\TRRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\RL1Ruins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\RL2Ruins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\RR1Ruins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\RR2Ruins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\RL3Ruins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\RR3Ruins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\PlatformRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\PillarLargeRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\PillarSmallRuins.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\PlatformBridge.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\Mine.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\MineLarge.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Dunkleosteus\Idle.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\LavaM.xnb
+E:\Story\Story\bin\x86\Debug\Content\Tiles\LavaT.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\SpikesSmallB.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\SpikesSmallT.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sprites\Pterodactyl\Flying.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\SpikeBall.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\CloudLarge.xnb
+E:\Story\Story\bin\x86\Debug\Content\Objects\CloudSmall.xnb
+E:\Story\Story\bin\x86\Debug\Content\Fonts\Hud.xnb
+E:\Story\Story\bin\x86\Debug\Content\Fonts\font.xnb
+E:\Story\Story\bin\x86\Debug\Content\Levels\2.txt
+E:\Story\Story\bin\x86\Debug\Content\Levels\2.cfg
+E:\Story\Story\bin\x86\Debug\Content\Levels\3.cfg
+E:\Story\Story\bin\x86\Debug\Content\Levels\4.cfg
+E:\Story\Story\bin\x86\Debug\Content\Levels\1.txt
+E:\Story\Story\bin\x86\Debug\Content\Levels\3.txt
+E:\Story\Story\bin\x86\Debug\Content\Levels\1.cfg
+E:\Story\Story\bin\x86\Debug\Content\Levels\4.txt
+E:\Story\Story\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sounds\Music.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+E:\Story\Story\bin\x86\Debug\Content\Sounds\Music.wma
+E:\Story\Story\bin\x86\Debug\Story.exe
+E:\Story\Story\bin\x86\Debug\Story.pdb
+E:\Story\Story\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Story\Story\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Story\Story\obj\x86\Debug\Story.CollisionBoxEditor.resources
+E:\Story\Story\obj\x86\Debug\Story.ObjectEditor.resources
+E:\Story\Story\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Story\Story\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Story\Story\obj\x86\Debug\Story.exe
+E:\Story\Story\obj\x86\Debug\Story.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Tiles\Invisible.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\SignGlideLeft.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\SignGlideRight.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\SignSkullLeft.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Objects\SignSkullRight.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Idle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Exit.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+J:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+J:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+J:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+J:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+J:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+J:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+J:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+J:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+J:\Story\Story\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+J:\Story\Story\bin\x86\Debug\Content\Overlays\you_died.xnb
+J:\Story\Story\bin\x86\Debug\Content\Overlays\you_lose.xnb
+J:\Story\Story\bin\x86\Debug\Content\Overlays\you_win.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running1.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running10.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running2.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running3.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running4.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running5.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running6.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running7.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running9.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Running8.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\run.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Jump.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart1.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart10.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart2.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart3.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart4.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart5.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart6.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart7.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart8.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart9.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\Attack.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\OuthouseClosed.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\OutHouseOpen.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP0.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP1.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP2.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP3.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP4.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Raptor\RaptorHP5.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Heart0.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Egg.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\EggProjectile.xnb
+J:\Story\Story\bin\x86\Debug\Content\Particles\WindParticle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\NullObjectB.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\NullObjectF.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\NullObjectN.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Attack.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\MindPowerBack.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\MindPowerCover.xnb
+J:\Story\Story\bin\x86\Debug\Content\Particles\MindPowerParticle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Particles\RaptorRecallParticle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Particles\RaptorTeleParticle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Particles\DeathParticle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Particles\ProjectileParticle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\Water.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\WaterTop.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Underwater.xnb
+J:\Story\Story\bin\x86\Debug\Content\Particles\BreathParticle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\BLGrass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\BMGrass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\BRGrass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\MLGrass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\MMGrass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\MRGrass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RL1Grass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RL2Grass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RR1Grass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RR2Grass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\TLGrass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\TMGrass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\TRGrass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\BLSnow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\BMSnow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\BRSnow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\MLSnow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\MMSnow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\MRSnow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RL1Snow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RL2Snow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RR1Snow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RR2Snow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\TLSnow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\TMSnow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\TRSnow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Attack2.xnb
+J:\Story\Story\bin\x86\Debug\Content\Particles\SnowflakeParticle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Backgrounds\SnowBG.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Player\Player_Glide.xnb
+J:\Story\Story\bin\x86\Debug\Content\Particles\RainParticle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\BLDesert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\BMDesert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\BRDesert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\MLDesert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\MMDesert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\MRDesert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RL1Desert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RL2Desert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RR1Desert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RR2Desert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\TLDesert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\TMDesert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\TRDesert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Particles\SandParticle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Backgrounds\DesertBG.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\Bridge.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\BridgeL.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\BridgeM.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\BridgeR.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RL3Grass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Grass\RR3Grass.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RL3Snow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Snow\RR3Snow.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RL3Desert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Desert\RR3Desert.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Gem1.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Gem2.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Gem3.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\WaterM.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\WaterT.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\SpikesB.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\SpikesT.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\MMRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\BLRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\BMRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\BRRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\MLRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\MRRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\TLRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\TMRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\TRRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\RL1Ruins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\RL2Ruins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\RR1Ruins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\RR2Ruins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\RL3Ruins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\RR3Ruins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\PlatformRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\PillarLargeRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\PillarSmallRuins.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\PlatformBridge.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\Mine.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\MineLarge.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Dunkleosteus\Idle.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\LavaM.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\LavaT.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\SpikesSmallB.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\SpikesSmallT.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sprites\Pterodactyl\Flying.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\SpikeBall.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\CloudLarge.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\CloudSmall.xnb
+J:\Story\Story\bin\x86\Debug\Content\Tiles\Invisible.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\SignGlideLeft.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\SignGlideRight.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\SignSkullLeft.xnb
+J:\Story\Story\bin\x86\Debug\Content\Objects\SignSkullRight.xnb
+J:\Story\Story\bin\x86\Debug\Content\Fonts\Hud.xnb
+J:\Story\Story\bin\x86\Debug\Content\Fonts\font.xnb
+J:\Story\Story\bin\x86\Debug\Content\Levels\2.txt
+J:\Story\Story\bin\x86\Debug\Content\Levels\2.cfg
+J:\Story\Story\bin\x86\Debug\Content\Levels\3.cfg
+J:\Story\Story\bin\x86\Debug\Content\Levels\4.cfg
+J:\Story\Story\bin\x86\Debug\Content\Levels\1.txt
+J:\Story\Story\bin\x86\Debug\Content\Levels\3.txt
+J:\Story\Story\bin\x86\Debug\Content\Levels\1.cfg
+J:\Story\Story\bin\x86\Debug\Content\Levels\4.txt
+J:\Story\Story\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sounds\Music.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+J:\Story\Story\bin\x86\Debug\Content\Sounds\Music.wma
+J:\Story\Story\bin\x86\Debug\Story.exe
+J:\Story\Story\bin\x86\Debug\Story.pdb
+J:\Story\Story\obj\x86\Debug\Story.csprojResolveAssemblyReference.cache
+J:\Story\Story\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\Story\Story\obj\x86\Debug\Story.CollisionBoxEditor.resources
+J:\Story\Story\obj\x86\Debug\Story.ObjectEditor.resources
+J:\Story\Story\obj\x86\Debug\Story.csproj.GenerateResource.Cache
+J:\Story\Story\obj\x86\Debug\Story.exe
+J:\Story\Story\obj\x86\Debug\Story.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\Story.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug\Story.csproj.GenerateResource.Cache
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sound\Minotaur Shock.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sound\Minotaur Shock.wma
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Debug\VertexNode.xnb
