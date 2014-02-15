@@ -11,7 +11,7 @@ namespace Story
     public class Main : Microsoft.Xna.Framework.Game
     {
         public const bool GodMode = false;
-        public const bool DebugMode = false;
+        public const bool DebugMode = true;
         public const bool Muted = true;
         // Resources for drawing.
         private GraphicsDeviceManager Graphics;

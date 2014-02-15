@@ -661,3 +661,4 @@ C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\obj\x86\Debug
 C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sound\Minotaur Shock.xnb
 C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Sound\Minotaur Shock.wma
 C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Debug\VertexNode.xnb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\GrassBG.xnb

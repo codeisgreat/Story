@@ -175,6 +175,7 @@ Content\Fonts\font.xnb
 Content\Sound\Minotaur Shock.xnb
 Content\Sound\Minotaur Shock.wma
 Content\Debug\VertexNode.xnb
+Content\Backgrounds\GrassBG.xnb
 Content\Levels\2.txt
 Content\Levels\2.cfg
 Content\Levels\3.cfg

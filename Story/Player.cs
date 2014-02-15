@@ -336,10 +336,14 @@ new Vector2(-4, -8), new Vector2(4, -8), 1500, 1, 32, 0f, .55f, 0.0006f, 0.8f, t
             //breath/underwater animation crap
             BreathCoords = level.Player.Position;
             int XOffset = LocalBounds.Width / 2 - 4;
+            int YOffset = LocalBounds.Height / 2;
+
             if (Flip == SpriteEffects.None)
                 XOffset = -XOffset;
+
             BreathEmitter.StartPosition.X = Main.BackBufferWidth / 2 + XOffset;
-            BreathEmitter.StartPosition.Y = Main.BackBufferHeight / Tile.VerticalScale - LocalBounds.Height / 2 - Bounce;
+            BreathEmitter.StartPosition.Y = Main.BackBufferHeight / Tile.VerticalScale - YOffset - Bounce - HoverDistance;
+
             if (!BreathEmitter.CreateEffect)
                 BreathEmitter.StartEffect();
             if (!IsAttacking)

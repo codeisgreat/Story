@@ -509,12 +509,16 @@ namespace Story
             switch (CurrentEnvironment)
             {
                 case Environment.Grass:
-
+                    /*
                     for (int i = 0; i < Layers.Length; ++i)
                     {
                         // Choose a random segment if each background layer for level variety.
                         Layers[i] = Content.Load<Texture2D>("Backgrounds/Layer" + i + "_" + Random.Next(3));
                     }
+                     */
+                    Layers[0] = Content.Load<Texture2D>("Backgrounds/GrassBG");
+                    Layers[1] = Content.Load<Texture2D>("Backgrounds/GrassBG");
+                    Layers[2] = Content.Load<Texture2D>("Backgrounds/GrassBG");
                     break;
                 case Environment.Snow:
                     Layers[0] = Content.Load<Texture2D>("Backgrounds/SnowBG");
@@ -747,37 +751,37 @@ namespace Story
             {
                 case Environment.Snow:
                     //Snow
-                    EnvironmentEmitterBG = new ParticleEmitter(new Vector2(0, 2),
-           new Color(255, 255, 255, 255), new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 3.0f), new Vector2(-1.0f, 1.0f),
+                    EnvironmentEmitterBG = new ParticleEmitter(new Vector2(0, -24),
+           new Color(255, 255, 255, 255), new Vector2(0, -32), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 3.0f), new Vector2(-1.0f, 1.0f),
            new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, 0), 2500, 2, 32, 0.0005f, 0.0f, 0.006f, 0.1f, false, 0.0f);
                     EnvironmentEmitterBG.LoadContent(Content.Load<Texture2D>("Particles/SnowflakeParticle"));
 
-                    EnvironmentEmitterFG = new ParticleEmitter(new Vector2(0, 2),
-                        new Color(255, 255, 255, 255), new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 3.0f), new Vector2(-1.0f, 1.0f),
+                    EnvironmentEmitterFG = new ParticleEmitter(new Vector2(0, -24),
+                        new Color(255, 255, 255, 255), new Vector2(0, -32), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 3.0f), new Vector2(-1.0f, 1.0f),
                         new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, 0), 2500, 2, 32, 0.0005f, 0.0f, 0.006f, 0.2f, false, 0.0f);
                     EnvironmentEmitterFG.LoadContent(Content.Load<Texture2D>("Particles/SnowflakeParticle"));
                     break;
                 case Environment.Grass:
                     //Rain
-                    EnvironmentEmitterBG = new ParticleEmitter(new Vector2(0, 2),
-           new Color(255, 255, 255, 255), new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 3.0f), new Vector2(-1.0f, 1.0f),
+                    EnvironmentEmitterBG = new ParticleEmitter(new Vector2(0, -24),
+           new Color(255, 255, 255, 255), new Vector2(0, -32), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 3.0f), new Vector2(-1.0f, 1.0f),
            new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, 0), 2500, 8, 32, 0f, 0.0f, 0.006f, 0.1f, false, 0.0f);
                     EnvironmentEmitterBG.LoadContent(Content.Load<Texture2D>("Particles/RainParticle"));
 
-                    EnvironmentEmitterFG = new ParticleEmitter(new Vector2(0, 2),
-                        new Color(255, 255, 255, 255), new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 12.0f), new Vector2(-1.0f, 1.0f),
+                    EnvironmentEmitterFG = new ParticleEmitter(new Vector2(0, -24),
+                        new Color(255, 255, 255, 255), new Vector2(0, -32), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 12.0f), new Vector2(-1.0f, 1.0f),
                         new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, 0), 2500, 8, 32, 0f, 0.0f, 0.006f, 0.2f, false, 0.0f);
                     EnvironmentEmitterFG.LoadContent(Content.Load<Texture2D>("Particles/RainParticle"));
                     break;
                 case Environment.Desert:
                     //Sand
-                    EnvironmentEmitterBG = new ParticleEmitter(new Vector2(0, 2),
-           new Color(255, 255, 255, 255), new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 4.0f), new Vector2(-1.0f, 1.0f),
+                    EnvironmentEmitterBG = new ParticleEmitter(new Vector2(0, -24),
+           new Color(255, 255, 255, 255), new Vector2(0, -32), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 4.0f), new Vector2(-1.0f, 1.0f),
            new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, 0), 2500, 18, 32, 0f, 0.0f, 0.006f, 0.05f, false, 0.0f);
                     EnvironmentEmitterBG.LoadContent(Content.Load<Texture2D>("Particles/SandParticle"));
 
-                    EnvironmentEmitterFG = new ParticleEmitter(new Vector2(0, 2),
-                        new Color(255, 255, 255, 255), new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 4.0f), new Vector2(-1.0f, 1.0f),
+                    EnvironmentEmitterFG = new ParticleEmitter(new Vector2(0, -24),
+                        new Color(255, 255, 255, 255), new Vector2(0, -32), new Vector2(Main.BackBufferWidth + 256, Main.BackBufferHeight + 32), new Vector2(-6.0f, 4.0f), new Vector2(-1.0f, 1.0f),
                         new Vector2(0, 0), new Vector2(Main.BackBufferWidth + 256, 0), 2500, 18, 32, 0f, 0.0f, 0.006f, 0.05f, false, 0.0f);
                     EnvironmentEmitterFG.LoadContent(Content.Load<Texture2D>("Particles/SandParticle"));
                     break;

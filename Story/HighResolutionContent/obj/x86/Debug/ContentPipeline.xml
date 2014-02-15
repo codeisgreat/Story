@@ -1586,6 +1586,15 @@
       <Output>C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Debug\VertexNode.xnb</Output>
       <Time>2013-03-25T11:41:59.9470843-07:00</Time>
     </Item>
+    <Item>
+      <Source>Backgrounds\GrassBG.png</Source>
+      <Name>Backgrounds\GrassBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zachary\Documents\Visual Studio 2010\Projects\Story\Story\bin\x86\Debug\Content\Backgrounds\GrassBG.xnb</Output>
+      <Time>2014-02-14T23:49:40.7511965-08:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

@@ -610,7 +610,7 @@ new Vector2(-16, -16), new Vector2(16, 16), 1500, 20, 32, 0f, .75f, 0.0009f, 0.8
                     //if (EnemyType == EnemyType.Player)
                     //    BlinkTimer = 1500.0f;
                     //else
-                    BlinkTimer = 250.0f;
+                    BlinkTimer = 1000.0f;
 
                     if (Health < 0)
                         Health = 0;
